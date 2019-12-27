@@ -88,6 +88,9 @@ def get_session(request):
 `http://127.0.0.1:8000/set_session/`,效果图如下：
 
 ![](https://user-gold-cdn.xitu.io/2019/12/27/16f4640aafcf5376?w=383&h=134&f=png&s=8211)
+
+
+
 `http://127.0.0.1:8000/get_session/`,效果图如下：
 
 ![](https://user-gold-cdn.xitu.io/2019/12/27/16f46411357c90ad?w=405&h=109&f=png&s=9118)
